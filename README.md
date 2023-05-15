@@ -3,13 +3,13 @@
  *MOVIES*
 
 1. **Rush hour series**
-  -Funny moments
+-Funny moments
 3. **Avengers**
-  -Fighting scenes
+-Fighting scenes
 5. **Titanic**
-  -Drama
+-Drama
 7. **John Wick**
-  -Gun scenes
+-Gun scenes
 9. **Guardians of the Galaxy**
-  -Sci-Fi 
+-Sci-Fi 
   
