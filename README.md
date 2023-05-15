@@ -1,6 +1,6 @@
 # app-dev #
 **My First Repository**
- *MOVIES*
+ **MOVIES**
 
 1. **Rush hour series**
 -Funny moments
