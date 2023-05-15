@@ -7,15 +7,20 @@
 1. **Rush hour series**
 
 -Funny moments
-3. **Avengers**
+
+2. **Avengers**
 
 -Fighting scenes
-5. **Titanic**
+
+3. **Titanic**
 
 -Drama
-7. **John Wick**
+
+4. **John Wick**
 
 -Gun scenes
-9. **Guardians of the Galaxy**
+
+5. **Guardians of the Galaxy**
+
 -Sci-Fi 
   
