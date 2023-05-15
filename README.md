@@ -1,5 +1,5 @@
 # app-dev #
-**My First Repository **
+**My First Repository**
  *MOVIES*
 
 1. **Rush hour series**
