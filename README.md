@@ -3,7 +3,7 @@
  *MOVIES*
 
 1. **Rush hour series**
-  -Funy moments
+  -Funny moments
 3. **Avengers**
   -Fighting scenes
 5. **Titanic**
